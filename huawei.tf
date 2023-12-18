@@ -12,8 +12,8 @@ terraform {
 provider "huaweicloud" {
   # Configuration options
   region     = "cn-north-4"
-  access_key = "BXAQK7UQHDML75W9YCEA"
-  secret_key = "pPUA0aCGPsEpBNF5Ja0KLVDBj9l2l3MxNwniyRq9"
+  access_key = "BXAQxxxxxxxxxxW9YCEA"
+  secret_key = "pPUA0aCGPxxxxxxxxxxxxxxxxxxxx3MxNwniyRq9"
 }
 
 data "huaweicloud_images_image" "ubuntu" {
